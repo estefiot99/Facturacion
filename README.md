@@ -1,4 +1,4 @@
 # Facturación App
-## _develop - Rama de desarrollo_
+## _master - Rama maestra_
 
-Aquí encontraras todo el código de la app hasta el momento.
+Aquí encontraras todo el código de la app que haya sido aprobado hasta el momento.
