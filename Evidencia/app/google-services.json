@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301304660275",
+    "project_id": "e-nvoicing",
+    "storage_bucket": "e-nvoicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301304660275:android:c679563299d79c91be7e46",
+        "android_client_info": {
+          "package_name": "com.example.evidencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301304660275-bk6avomaf69g9nqggh989qlr3flrpoah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWLKR3sf7QtatSerIRhe33EbH-grG1_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301304660275-bk6avomaf69g9nqggh989qlr3flrpoah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

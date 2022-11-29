@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Evidencia</string>
+
+    <string name="login_title">Inicia sesión</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+
+    <string name="menu_title">Bienvenido User</string>
+    <string name="menu_qr_generate">Generar QR</string>
+    <string name="menu_new_register">Registrar razón social</string>
+
+    <string name="list_title">Selecciona la razón social</string>
+
+    <string name="register_new_title">Registra tu nueva razón social</string>
+    <string name="register_new_toggle1">Física</string>
+    <string name="register_new_toggle2">Moral</string>
+    <string name="register_new_alias">Alias</string>
+    <string name="register_new_name">Nombre</string>
+    <string name="register_new_address">Dirección</string>
+    <string name="register_new_email">Email</string>
+    <string name="register_new_phone">Teléfono</string>
+    <string name="register_new_rfc">RFC</string>
+
+    <string name="account_title">Detalles de tu cuenta</string>
+    <string name="account_button">Guardar cambios</string>
+
+</resources>
